@@ -2,7 +2,7 @@ hola mundo
 autor : David Roque
 comentarios: Creación de la base de datos
 
-Sentencias
+Sentencias: Casos
 git --version
 git config --global user.name "juan perez"
 git config --global user.email mail@gmail.com
